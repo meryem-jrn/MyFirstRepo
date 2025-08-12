@@ -1,0 +1,1 @@
+In this course, I learned how to use Git and GitHub for version control. I practiced creating repositories, managing branches, making commits, and collaborating through pull requests. These skills will help me work efficiently on coding projects and collaborate with others. 
